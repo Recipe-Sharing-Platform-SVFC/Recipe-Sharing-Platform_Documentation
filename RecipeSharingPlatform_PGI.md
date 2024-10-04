@@ -43,35 +43,30 @@ services.\
 
 ## E. Project Deliverables:
     1. Requirements
-      • Research and analysis
-      • Data Gathering
-      • User Stories
       • User Requirements
+      • Document Requirements
       • Use Case
       • Data Dictionary
-      • Entity Relationship Diagram
-      • Dataflow Diagram
+      • Review and Approval
     
     2. Design
-      • Low Fidelity
-      • High Fidelity
+      • Mockup
       • Prototype
     
     3. Development
-      • Initial Planning
-      • Milestone Creation 
-      • Development Phase 
-      • Quality Control 
-      • Revisions & Adjustments
-      • Final Submission
-      • Post-Delivery Assessment
+      • Front-End Development
+      • Back-End Development
+      • Database Implementation
 
     4. Test
-      • Functional
-      • Non-Functional
+      • Unit Testing
+      • Integration Testing
+      • User Acceptance Testing
     
     5. Deploy
-      • User Acceptance Testing
+      • Deployment Planning
+      • Environmental Setup
+      • Application Deployment
 
 ## F. Benchmarking
   1. Allrecipes
