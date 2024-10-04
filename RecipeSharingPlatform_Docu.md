@@ -82,6 +82,5 @@ A data dictionary for Chef Savvy serves as a comprehensive guide to the data ele
 
   
 ## ERD
-
- <img src="https://github.com/user-attachments/assets/23d4cec5-ad20-4fd5-9f6c-713df01842d5">
+![ERD](erd.png)
 
