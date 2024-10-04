@@ -13,13 +13,19 @@ Both large and small cafeteria owners looking for affordable meal ideas to serve
 
 ## Project features and Characteristics
 
--Recipe submission
--User profiles
--Search and Filtering
--Recipe Collections 
--Rating and reviews 
--Community Forums
-
+##### Recipe submission
+* Users can upload and share their recipes with others on the platform.
+* Recipe submissions include ingredients, cooking instructions, serving sizes, and optional media (photos, videos).
+##### User profiles
+* Users create profiles where they can manage their submissions, favorite recipes, and view their ratings and reviews.
+##### Search and Filtering
+* Users can search for recipes based on various filters such as ingredients, cuisine type, budget range, preparation time, and more.
+##### Recipe Collections
+* Users can create collections of favorite recipes or save recipes to themed collections (e.g., vegetarian, low-budget meals, regional cuisine).
+##### Rating and reviews
+* Users can rate and review recipes, providing feedback to the community and helping others make informed choices.
+##### Community Forums
+* A section for users to discuss tips, share ideas, ask questions, and engage with the broader cooking community.
 
 ## Project Scope
 
@@ -28,7 +34,7 @@ This project is targeted towards both large and small cafeteria owners who are s
 
 ## Work breakdown Structure
 
-
+(-----------------------------------------)
 
 ## Functional Requirements
 
@@ -43,9 +49,6 @@ This project is targeted towards both large and small cafeteria owners who are s
 
 ## Use Cases
 ![Use Cases](0d646a0b-2c4e-4ca2-bae0-ad8de4953c9a.jpg)
-
-
-## Database Architecture
 
 
 ## Data Dictionary for Chef Savvy
@@ -77,4 +80,6 @@ A data dictionary for Chef Savvy serves as a comprehensive guide to the data ele
 
   
 ## ERD
- 
+
+ <img src="https://github.com/user-attachments/assets/23d4cec5-ad20-4fd5-9f6c-713df01842d5">
+
