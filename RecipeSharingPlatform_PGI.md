@@ -14,7 +14,9 @@ Along with providing simple access to affordable recipe ideas, local cooks of Ca
 ## C. Project Objectives:
 
 Support Menu Planning: Deliver daily meal ideas for appealing and economical menus.
+<br>
 Empowering potential Culinary Professionals: Assist users in enhancing their cooking skills and offerings.
+<br>
 Ensure Cost-Efficiency: Help manage ingredient costs while maintaining quality.
 
 ## D. Business Benefits:
@@ -72,9 +74,24 @@ services.\
       • User Acceptance Testing
 
 ## F. Benchmarking
-  1. ex. Shopee
+  1. Allrecipes
+     A well-established recipe-sharing platform that features user-generated content and a large community of cooks.
+  2. Tasty (Buzzfeed)
+     A platform known for its short, engaging cooking videos and visually appealing content.
+  3. Cookpad
+     A user-driven recipe-sharing platform that encourages local and global recipe exchange.
+  4. Yummly
+     A smart recipe app that leverages machine learning to suggest recipes based on user preferences and dietary restrictions.
 
 ## G. Estimated Project Duration:
+Estimated Duration: 3 months
+<br>
+This estimated assumed time the project is carried out by a small team (3 developers). Time can be shortened or lengthened depending on the team's size, experience, and project complexity.
 
-
-Prepared by:PGI
+## Prepared by:
+<br>
+Coronel, Cristina 
+<br>
+Dio, Carl
+<br>
+Soriano, Jerald
