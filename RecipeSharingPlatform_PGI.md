@@ -4,7 +4,7 @@ Group Name: Recipe Sharing Platform
 Project Title: Chef Savvy
 
 ## A. Problem Statement:
-A lot of cafeteria owners struggle to find budget-friendly, so they demand a helpful tool to keep their menus interesting and affordable. There is a gap for a platform that supports cafeteria owners, small-scale cooks, aspiring chefs, and budget-conscious cooks with user-friendly platform, easy accessible, high-quality recipes tailored to the local tastes.
+A lot of cafeteria owners struggle to find budget-friendly, so they demand a helpful tool to keep their menus interesting and affordable. There is a gap for a platform that supports cafeteria owners, small-scale cooks, aspiring chefs, and budget-conscious cooks with a user-friendly platform, easy accessible, high-quality recipes tailored to the local tastes.
 
 ## B. Project Description:
 
@@ -16,14 +16,6 @@ Along with providing simple access to affordable recipe ideas, local cooks of Ca
 Support Menu Planning: Deliver daily meal ideas for appealing and economical menus.
 Empowering potential Culinary Professionals: Assist users in enhancing their cooking skills and offerings.
 Ensure Cost-Efficiency: Help manage ingredient costs while maintaining quality.
-
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
-1.
-2.
-3.
-4.
-..
-
 
 ## D. Business Benefits:
 1. Increased Brand Visibility and Reach: Sharing recipes allows businesses to display their products, services, and brands to a worldwide audience, thus broadening their market reach and visibility. Furthermore, our recipe-sharing platform can offer a valuable understanding of consumer tastes and behavior, enabling businesses to customize their marketing approaches and product offerings to meet the requirements of their intended audience.
@@ -63,14 +55,20 @@ services.\
       • High Fidelity
       • Prototype
     
-    4. Development
-       
+    3. Development
+      - Initial Planning
+      - Milestone Creation
+      - Development Phase
+      - Quality Control
+      - Revisions & Adjustments
+      - Final Submission
+      - Post-Delivery Assessment
     
-    6. Test
+    4. Test
       • Functional
       • Non-Functional
     
-    8. Deploy
+    5. Deploy
       • User Acceptance Testing
 
 ## F. Benchmarking
