@@ -50,7 +50,7 @@ This project is targeted towards both large and small cafeteria owners who are s
 
 
 ## Use Cases
-![Use Cases](0d646a0b-2c4e-4ca2-bae0-ad8de4953c9a.jpg)
+![Use Cases](use_case.jpg)
 
 
 ## Data Dictionary for Chef Savvy
