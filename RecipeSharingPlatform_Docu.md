@@ -35,6 +35,10 @@ This project is targeted towards both large and small cafeteria owners who are s
 |Aspiring Chefs | Experiment with new recipes, refine culinary skills, track recipe popularity.   | Recipe analytics, sharing functionality, ability to categorize recipes, and in-app messaging.  |
 |General Users | Browse, save, and share recipes, review and rate them, follow other cooks. |Search/filter recipes, recipe sharing on social media, user reviews, and rating capabilities.  |
 
+## Use Cases
+![Use Cases](0d646a0b-2c4e-4ca2-bae0-ad8de4953c9a.jpg)
+
+
 ## Database Architecture
 
 ## Data Dictionary
