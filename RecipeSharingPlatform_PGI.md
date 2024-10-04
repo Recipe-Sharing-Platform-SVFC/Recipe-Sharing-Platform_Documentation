@@ -56,13 +56,13 @@ services.\
       • Prototype
     
     3. Development
-   <li> Initial Planning </li>
-   <li> Milestone Creation </li>
-   <li> Development Phase </li>
-   <li> Quality Control </li>
-   <li> Revisions & Adjustments </li>
-   <li> Final Submission </li>
-   <li> Post-Delivery Assessment </li>
+    <li> Initial Planning </li>
+    <li> Milestone Creation </li>
+    <li> Development Phase </li>
+    <li> Quality Control </li>
+    <li> Revisions & Adjustments </li>
+    <li> Final Submission </li>
+    <li> Post-Delivery Assessment </li>
     
     4. Test
       • Functional
