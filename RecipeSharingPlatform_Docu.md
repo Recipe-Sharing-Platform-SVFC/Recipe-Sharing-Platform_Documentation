@@ -34,7 +34,9 @@ This project is targeted towards both large and small cafeteria owners who are s
 
 ## Work breakdown Structure
 
-(-----------------------------------------)
+ <img src="https://github.com/Recipe-Sharing-Platform-SVFC/Recipe-Sharing-Platform_Documentation/blob/main/wbs.png.png">
+
+
 
 ## Functional Requirements
 
