@@ -84,3 +84,4 @@ A data dictionary for Chef Savvy serves as a comprehensive guide to the data ele
 ## ERD
 ![ERD](erd.png)
 
+#### Lucid Chart Link: https://lucid.app/lucidchart/08c38f7b-da54-4bff-b956-f12ff84da3fc/edit?viewport_loc=-6691%2C-2509%2C14256%2C6223%2C0_0&invitationId=inv_456e77bb-102f-48fe-89ad-49cfebc6be0e
