@@ -25,7 +25,9 @@ This project is targeted towards both large and small cafeteria owners who are s
 D. Work breakdown Structure
 
 E. Functional Requirements
-      ---------------------------------------------------------
+
+ USER_TABLE
+     ---------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
      | UserID (Primary Key) | Unique identifier for each | VARCHAR  | 50 | A-0001 |  
