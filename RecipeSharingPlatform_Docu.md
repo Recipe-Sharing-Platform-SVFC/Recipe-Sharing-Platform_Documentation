@@ -25,6 +25,16 @@ This project is targeted towards both large and small cafeteria owners who are s
 D. Work breakdown Structure
 
 E. Functional Requirements
+      ---------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | UserID (Primary Key) | Unique identifier for each | VARCHAR  | 50 | A-0001 |  
+     | Username | User's chosen name for login. | VARCHAR | 225 | Admin |
+     | Password | Encrypted password for security. | VARCHAR | 255 | AD1234 |
+     | Email | User's email address. | VARCHAR | 255 | admin@gmail.com | 
+     | CreatedDate  | The date and time when the user account was created. | DATETIME |  | 2024-08-30 00:00:00 |
+     | LastLogin | The last date and time the user logged in. | DATETIME |   | 2024-08-30 00:00:00 |
+
 
         1. User Requirements
 
