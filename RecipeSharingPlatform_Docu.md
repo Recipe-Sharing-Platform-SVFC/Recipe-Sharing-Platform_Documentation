@@ -13,20 +13,14 @@ Both large and small cafeteria owners looking for affordable meal ideas to serve
 
 ## Project features and Characteristics
 
-##### Recipe submission
-* Users can upload and share their recipes with others on the platform.
-* Recipe submissions include ingredients, cooking instructions, serving sizes, and optional media (photos, videos).
-##### User profiles
-* Users create profiles where they can manage their submissions, favorite recipes, and view their ratings and reviews.
-##### Search and Filtering
-* Users can search for recipes based on various filters such as ingredients, cuisine type, budget range, preparation time, and more.
-##### Recipe Collections
-* Users can create collections of favorite recipes or save recipes to themed collections (e.g., vegetarian, low-budget meals, regional cuisine).
-##### Rating and reviews
-* Users can rate and review recipes, providing feedback to the community and helping others make informed choices.
-##### Community Forums
-* A section for users to discuss tips, share ideas, ask questions, and engage with the broader cooking community.
-
+| **Feature**  | **Description**                                                                      |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Recipe Submissions**    | -Users can upload and share their recipes with others. <br>-Submissions include ingredients, cooking instructions, serving sizes, and optional media (photos, videos).       |
+| **User Profiles**         | -Users create profiles where they can manage their submissions, favorite recipes, and view their ratings and reviews.                                                  |
+| **Search and Filtering**  | -Users can search for recipes using filters like ingredients, cuisine type, budget range, preparation time, and more.                                                  |
+| **Recipe Collections**    | -Users can create collections of favorite recipes or save recipes to themed collections (e.g., vegetarian, low-budget meals, regional cuisine).                        |
+| **Rating and Reviews**    | -Users can rate and review recipes, providing feedback to the community and helping others make informed choices.                                                     |
+| **Community Forums**      | -A section for users to discuss tips, share ideas, ask questions, and engage with the broader cooking community.                                                
 ## Project Scope
 
 This project is targeted towards both large and small cafeteria owners who are seeking cost-effective meal ideas to better serve their customers. The system will be developed using Angular to ensure a robust, scalable, and user-friendly platform that meets the needs of cafeteria operators of all sizes.
